@@ -1,7 +1,4 @@
----
-permalink: /robots.txt
----
 User-agent: *
 Disallow:
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+Sitemap: https://etiennegof.github.io/pages/EtienneGof/sitemap.xml
